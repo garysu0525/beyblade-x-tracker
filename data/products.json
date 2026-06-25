@@ -16,13 +16,13 @@
     "priceTWD": 499,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-02",
@@ -41,13 +41,13 @@
     "priceTWD": 499,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-03",
@@ -64,15 +64,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 269,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-04",
@@ -91,13 +91,13 @@
     "priceTWD": 499,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-05",
@@ -114,15 +114,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 990,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-06",
@@ -139,15 +139,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 990,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-07",
@@ -339,15 +339,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 217,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-15",
@@ -364,15 +364,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": null,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 664,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-16",
@@ -389,15 +389,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 219,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-17",
@@ -414,15 +414,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 290,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-18",
@@ -439,15 +439,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": null,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 269,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-19",
@@ -464,15 +464,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": null,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 290,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-20",
@@ -489,15 +489,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 656,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-21",
@@ -564,15 +564,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 699,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-24",
@@ -589,15 +589,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 549,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-25",
@@ -641,13 +641,13 @@
     "priceTWD": 599,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-27",
@@ -666,13 +666,13 @@
     "priceTWD": 599,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-28",
@@ -689,15 +689,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 599,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 499,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-29",
@@ -714,15 +714,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 599,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 476,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-30",
@@ -816,13 +816,13 @@
     "priceTWD": 699,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-34",
@@ -839,15 +839,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 290,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-35",
@@ -864,15 +864,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 580,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-36",
@@ -889,15 +889,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 269,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-37",
@@ -914,15 +914,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 390,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-38",
@@ -939,15 +939,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 656,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-39",
@@ -1089,15 +1089,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 899,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 665,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-45",
@@ -1114,15 +1114,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 899,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 457,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-46",
@@ -1214,15 +1214,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 899,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "BX-50",
@@ -1291,13 +1291,13 @@
     "priceTWD": 699,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-02",
@@ -1314,15 +1314,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 899,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-03",
@@ -1341,13 +1341,13 @@
     "priceTWD": 699,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-04",
@@ -1364,15 +1364,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 555,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-05",
@@ -1391,13 +1391,13 @@
     "priceTWD": 699,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-06",
@@ -1414,15 +1414,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 960,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-07",
@@ -1439,15 +1439,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 899,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-08",
@@ -1464,15 +1464,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 960,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-09",
@@ -1514,15 +1514,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 400,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-11",
@@ -1539,15 +1539,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 799,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 848,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-12",
@@ -1589,15 +1589,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 799,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 292,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-14",
@@ -1614,15 +1614,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 799,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 590,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-15",
@@ -1639,15 +1639,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 1299,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 434,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-16",
@@ -1664,15 +1664,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 234,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-17",
@@ -1691,13 +1691,13 @@
     "priceTWD": 899,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-18",
@@ -1739,15 +1739,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 890,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "UX-20",
@@ -1791,13 +1791,13 @@
     "priceTWD": 699,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-02",
@@ -1814,15 +1814,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 390,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-03",
@@ -1839,15 +1839,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 299,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-04",
@@ -1939,15 +1939,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 259,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-08",
@@ -1989,15 +1989,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 799,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 476,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-10",
@@ -2014,15 +2014,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 799,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 990,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-11",
@@ -2039,15 +2039,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 990,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-12",
@@ -2064,15 +2064,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 899,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 318,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-13",
@@ -2089,15 +2089,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 495,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-14",
@@ -2114,15 +2114,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 290,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-15",
@@ -2141,13 +2141,13 @@
     "priceTWD": 999,
     "marketPriceTWD": null,
     "availability": {
-      "momo": null,
+      "momo": "soldout",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-16",
@@ -2164,15 +2164,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 1099,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 235,
     "availability": {
-      "momo": null,
+      "momo": "available",
       "pchome": null,
-      "funbox": null,
+      "funbox": "available",
       "eslite": null,
-      "yahoo": null
+      "yahoo": "available"
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-25T09:36:35.036383+00:00"
   },
   {
     "id": "CX-17",
