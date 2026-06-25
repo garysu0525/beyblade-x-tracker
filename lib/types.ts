@@ -15,7 +15,8 @@ export interface Product {
   releaseDate: string;
   releasedTW: boolean;
   priceJPY: number | null;
-  priceTWD: number | null;
+  priceTWD: number | null;      // 官方建議售價 MSRP
+  marketPriceTWD: number | null; // 爬蟲抓到的最低市場價
   preorderAvailable?: boolean;
   availability: {
     momo: StockStatus;

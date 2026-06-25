@@ -17,8 +17,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: 安裝套件
+      - name: 安裝 Python 套件
         run: pip install -r scripts/requirements.txt
+
+      - name: 安裝 Playwright 瀏覽器
+        run: python -m playwright install chromium --with-deps
 
       - name: 更新商品庫存
         run: python scripts/scrape_availability.py
