@@ -1,0 +1,7 @@
+[
+  { "id": "momo",   "name": "MOMO",    "url": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=戰鬥陀螺X",  "type": "online", "icon": "🛒" },
+  { "id": "pchome", "name": "PChome", "url": "https://shopping.pchome.com.tw/?q=戰鬥陀螺X",                          "type": "online", "icon": "🛒" },
+  { "id": "funbox", "name": "FunBox", "url": "https://www.facebook.com/FunBox.TW",                                   "type": "physical", "icon": "🏪" },
+  { "id": "eslite", "name": "誠品",   "url": "https://www.esliteshopping.com/Search/?SearchString=戰鬥陀螺",         "type": "online", "icon": "🛒" },
+  { "id": "yahoo",  "name": "Yahoo",  "url": "https://tw.buy.yahoo.com/search/product?p=戰鬥陀螺X",                  "type": "online", "icon": "🛒" }
+]
