@@ -123,10 +123,15 @@ export default function ProductCard({ product }: { product: Product }) {
             {Object.entries(product.availability).map(([storeId, status]) => {
               if (!status) return null;
               const info = STOCK_LABELS[status];
-              return (
-                <span key={storeId} className={`text-xs px-2.5 py-1 rounded-full ${info.cls}`}>
-                  {STORE_NAMES[storeId]} · {info.label}
-                </span>
+              const url = product.storeUrls?.[storeId as keyof typeof product.storeUrls];
+              const cls = `text-xs px-2.5 py-1 rounded-full ${info.cls}`;
+              const label = `${STORE_NAMES[storeId]} · ${info.label}`;
+              return url ? (
+                <a key={storeId} href={url} target="_blank" rel="noopener noreferrer" className={`${cls} hover:opacity-80 underline-offset-2`}>
+                  {label}
+                </a>
+              ) : (
+                <span key={storeId} className={cls}>{label}</span>
               );
             })}
           </div>

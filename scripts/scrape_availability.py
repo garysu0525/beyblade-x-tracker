@@ -30,7 +30,7 @@ _browser = None
 _pw_page = None
 
 Status = Optional[str]  # "available" | "soldout" | "preorder" | None
-Result = Tuple[Status, Optional[int]]  # (status, price_TWD)
+Result = Tuple[Status, Optional[int], Optional[str]]  # (status, price_TWD, url)
 
 
 def get_pw_page():
@@ -62,31 +62,32 @@ def _parse_price(text: str) -> Optional[int]:
 
 # -- MOMO (Playwright) --------------------------------------------------------
 def check_momo(keyword: str) -> Result:
+    search_url = f"https://www.momoshop.com.tw/search/searchShop.jsp?keyword={quote(keyword)}&searchType=1"
     try:
         page = get_pw_page()
-        url = f"https://www.momoshop.com.tw/search/searchShop.jsp?keyword={quote(keyword)}&searchType=1"
-        page.goto(url, wait_until="networkidle", timeout=25000)
+        page.goto(search_url, wait_until="networkidle", timeout=25000)
         items = page.query_selector_all("li.listAreaLi")
         if not items:
-            return ("soldout", None)
+            return ("soldout", None, search_url)
         for item in items[:5]:
             sold = item.query_selector(".soldOut, [class*=soldOut]")
             if not sold:
                 price = _parse_price(item.inner_text())
-                return ("available", price)
-        return ("soldout", None)
+                return ("available", price, search_url)
+        return ("soldout", None, search_url)
     except Exception as e:
         print(f"    MOMO error: {e}")
-        return (None, None)
+        return (None, None, search_url)
 
 
 # -- PChome (requests) --------------------------------------------------------
 def check_pchome(keyword: str) -> Result:
+    search_url = f"https://shopping.pchome.com.tw/?q={quote(keyword)}"
     for attempt in range(2):
         try:
             time.sleep(3 + attempt * 3)
-            url = f"https://ecshweb.pchome.com.tw/search/v3.3/?q={quote(keyword)}&scope=all"
-            r = requests.get(url, headers=HEADERS, timeout=15)
+            api_url = f"https://ecshweb.pchome.com.tw/search/v3.3/?q={quote(keyword)}&scope=all"
+            r = requests.get(api_url, headers=HEADERS, timeout=15)
             if r.status_code == 429:
                 continue
             data = r.json()
@@ -94,18 +95,18 @@ def check_pchome(keyword: str) -> Result:
             for p in prods:
                 if p.get("qty", 0) > 0 or p.get("isPrecious"):
                     price = p.get("price") or p.get("Price")
-                    return ("available", int(price) if price else None)
-            return ("soldout" if prods else None, None)
+                    return ("available", int(price) if price else None, search_url)
+            return ("soldout" if prods else None, None, search_url)
         except Exception as e:
             print(f"    PChome error: {e}")
-    return (None, None)
+    return (None, None, search_url)
 
 
 # -- Funbox (requests, Shopify static HTML) -----------------------------------
 def check_funbox(keyword: str) -> Result:
+    search_url = f"https://www.funbox.com.tw/?s={quote(keyword)}"
     try:
-        url = f"https://www.funbox.com.tw/?s={quote(keyword)}"
-        r = requests.get(url, headers=HEADERS, timeout=12, verify=False)
+        r = requests.get(search_url, headers=HEADERS, timeout=12, verify=False)
         soup = BeautifulSoup(r.text, "html.parser")
         items = soup.select(".product")
         for item in items:
@@ -115,52 +116,52 @@ def check_funbox(keyword: str) -> Result:
             btn = item.select_one("button, .AddCartBtn, [class*=cart]")
             if btn and "加入購物車" in btn.get_text():
                 price = _parse_price(text)
-                return ("available", price)
-        return ("soldout" if items else None, None)
+                return ("available", price, search_url)
+        return ("soldout" if items else None, None, search_url)
     except Exception as e:
         print(f"    Funbox error: {e}")
-        return (None, None)
+        return (None, None, search_url)
 
 
 # -- Yahoo (Playwright) -------------------------------------------------------
 def check_yahoo(keyword: str) -> Result:
+    search_url = f"https://tw.buy.yahoo.com/search/product?p={quote(keyword)}"
     try:
         page = get_pw_page()
-        url = f"https://tw.buy.yahoo.com/search/product?p={quote(keyword)}"
-        page.goto(url, wait_until="networkidle", timeout=25000)
+        page.goto(search_url, wait_until="networkidle", timeout=25000)
         items = page.query_selector_all("ul > li:has(a[href*='/gdsale']), ul.gridList > li")
         if not items:
-            return (None, None)
+            return (None, None, search_url)
         for item in items:
             text = item.inner_text()
             if "補貨中" in text or "售完" in text or "缺貨" in text:
                 continue
             price = _parse_price(text)
-            return ("available", price)
-        return ("soldout", None)
+            return ("available", price, search_url)
+        return ("soldout", None, search_url)
     except Exception as e:
         print(f"    Yahoo error: {e}")
-        return (None, None)
+        return (None, None, search_url)
 
 
 # -- Eslite (requests, often blocked by Cloudflare) ---------------------------
 def check_eslite(keyword: str) -> Result:
+    search_url = f"https://www.eslite.com/search?keyword={quote(keyword)}"
     try:
-        url = f"https://www.eslite.com/search?keyword={quote(keyword)}"
-        r = requests.get(url, headers=HEADERS, timeout=12)
+        r = requests.get(search_url, headers=HEADERS, timeout=12)
         if "Cloudflare" in r.text or r.status_code in (403, 503):
-            return (None, None)
+            return (None, None, search_url)
         soup = BeautifulSoup(r.text, "html.parser")
         items = soup.select(".product-item, [class*=product]")
         for item in items:
             sold = item.select_one(".sold-out, [class*=soldout]")
             if not sold:
                 price = _parse_price(item.get_text())
-                return ("available", price)
-        return ("soldout" if items else None, None)
+                return ("available", price, search_url)
+        return ("soldout" if items else None, None, search_url)
     except Exception as e:
         print(f"    Eslite error: {e}")
-        return (None, None)
+        return (None, None, search_url)
 
 
 CHECKERS = {
@@ -192,9 +193,13 @@ def main():
             print(f"\n[{p['code']}] {p['nameZh']} (search: {keyword})")
 
             collected_prices = []
+            if "storeUrls" not in p:
+                p["storeUrls"] = {}
             for store_id, checker in CHECKERS.items():
-                status, price = checker(keyword)
+                status, price, url = checker(keyword)
                 p["availability"][store_id] = status
+                if url:
+                    p["storeUrls"][store_id] = url
                 if price:
                     collected_prices.append(price)
                 icon = "[OK]" if status == "available" else ("[??]" if status is None else "[--]")

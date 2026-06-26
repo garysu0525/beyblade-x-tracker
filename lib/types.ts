@@ -25,6 +25,13 @@ export interface Product {
     eslite: StockStatus;
     yahoo: StockStatus;
   };
+  storeUrls?: {
+    momo?: string;
+    pchome?: string;
+    funbox?: string;
+    eslite?: string;
+    yahoo?: string;
+  };
   lastUpdated: string;
 }
 
