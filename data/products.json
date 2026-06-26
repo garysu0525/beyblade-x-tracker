@@ -16,20 +16,13 @@
     "priceTWD": 499,
     "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-01%20%E8%92%BC%E9%BE%8D&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-01%20%E8%92%BC%E9%BE%8D",
-      "funbox": "https://www.funbox.com.tw/?s=BX-01%20%E8%92%BC%E9%BE%8D",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-01%20%E8%92%BC%E9%BE%8D",
-      "eslite": "https://www.eslite.com/search?keyword=BX-01%20%E8%92%BC%E9%BE%8D"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-02",
@@ -46,22 +39,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": 290,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-02%20%E5%9C%B0%E7%8D%84&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-02%20%E5%9C%B0%E7%8D%84",
-      "funbox": "https://www.funbox.com.tw/?s=BX-02%20%E5%9C%B0%E7%8D%84",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-02%20%E5%9C%B0%E7%8D%84",
-      "eslite": "https://www.eslite.com/search?keyword=BX-02%20%E5%9C%B0%E7%8D%84"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-03",
@@ -78,22 +64,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": 699,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-03%20%E9%AD%94%E6%B3%95&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-03%20%E9%AD%94%E6%B3%95",
-      "funbox": "https://www.funbox.com.tw/?s=BX-03%20%E9%AD%94%E6%B3%95",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-03%20%E9%AD%94%E6%B3%95",
-      "eslite": "https://www.eslite.com/search?keyword=BX-03%20%E9%AD%94%E6%B3%95"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-04",
@@ -112,20 +91,13 @@
     "priceTWD": 499,
     "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-04%20%E9%A8%8E%E5%A3%AB&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-04%20%E9%A8%8E%E5%A3%AB",
-      "funbox": "https://www.funbox.com.tw/?s=BX-04%20%E9%A8%8E%E5%A3%AB",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-04%20%E9%A8%8E%E5%A3%AB",
-      "eslite": "https://www.eslite.com/search?keyword=BX-04%20%E9%A8%8E%E5%A3%AB"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-05",
@@ -142,22 +114,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": 990,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-05%20%E9%AD%94%E5%B0%8E&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-05%20%E9%AD%94%E5%B0%8E",
-      "funbox": "https://www.funbox.com.tw/?s=BX-05%20%E9%AD%94%E5%B0%8E",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-05%20%E9%AD%94%E5%B0%8E",
-      "eslite": "https://www.eslite.com/search?keyword=BX-05%20%E9%AD%94%E5%B0%8E"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-06",
@@ -174,22 +139,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": 990,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-06%20%E9%A8%8E%E5%A3%AB&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-06%20%E9%A8%8E%E5%A3%AB",
-      "funbox": "https://www.funbox.com.tw/?s=BX-06%20%E9%A8%8E%E5%A3%AB",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-06%20%E9%A8%8E%E5%A3%AB",
-      "eslite": "https://www.eslite.com/search?keyword=BX-06%20%E9%A8%8E%E5%A3%AB"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-07",
@@ -214,7 +172,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-08",
@@ -239,7 +197,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-09",
@@ -264,7 +222,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-10",
@@ -289,7 +247,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-11",
@@ -314,7 +272,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-12",
@@ -339,14 +297,114 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-13",
     "code": "BX-13",
-    "nameZh": "隨機強化組 Vol.3",
+    "nameZh": "騎士長矛",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX13_list.png",
+    "type": "defense",
+    "series": "BX",
+    "isAccessory": false,
+    "tier": null,
+    "tierScore": null,
+    "releaseDate": "2024-01-06",
+    "releasedTW": true,
+    "priceJPY": null,
+    "priceTWD": 499,
+    "marketPriceTWD": null,
+    "availability": {
+      "momo": null,
+      "pchome": null,
+      "funbox": null,
+      "eslite": null,
+      "yahoo": null
+    },
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
+  },
+  {
+    "id": "BX-14",
+    "code": "BX-14",
+    "nameZh": "隨機強化組 Vol.3",
+    "nameJa": "",
+    "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX14_list.png",
+    "type": null,
+    "series": "BX",
+    "isAccessory": false,
+    "tier": "C",
+    "tierScore": 22.0,
+    "releaseDate": "2024-01-06",
+    "releasedTW": true,
+    "priceJPY": null,
+    "priceTWD": 499,
+    "marketPriceTWD": null,
+    "availability": {
+      "momo": null,
+      "pchome": null,
+      "funbox": null,
+      "eslite": null,
+      "yahoo": null
+    },
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
+  },
+  {
+    "id": "BX-15",
+    "code": "BX-15",
+    "nameZh": "雄獅獵爪",
+    "nameJa": "",
+    "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX15_list.png",
+    "type": "balance",
+    "series": "BX",
+    "isAccessory": false,
+    "tier": null,
+    "tierScore": null,
+    "releaseDate": "2024-01-06",
+    "releasedTW": true,
+    "priceJPY": null,
+    "priceTWD": 499,
+    "marketPriceTWD": null,
+    "availability": {
+      "momo": null,
+      "pchome": null,
+      "funbox": null,
+      "eslite": null,
+      "yahoo": null
+    },
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
+  },
+  {
+    "id": "BX-16",
+    "code": "BX-16",
+    "nameZh": "毒蛇鋒尾",
+    "nameJa": "",
+    "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX16_list.png",
+    "type": null,
+    "series": "BX",
+    "isAccessory": false,
+    "tier": "B",
+    "tierScore": 39.0,
+    "releaseDate": "2024-01-06",
+    "releasedTW": true,
+    "priceJPY": null,
+    "priceTWD": 499,
+    "marketPriceTWD": null,
+    "availability": {
+      "momo": null,
+      "pchome": null,
+      "funbox": null,
+      "eslite": null,
+      "yahoo": null
+    },
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
+  },
+  {
+    "id": "BX-17",
+    "code": "BX-17",
+    "nameZh": "雙入強化組",
+    "nameJa": "",
+    "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX17_list.png",
     "type": null,
     "series": "BX",
     "isAccessory": true,
@@ -364,135 +422,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
-  },
-  {
-    "id": "BX-14",
-    "code": "BX-14",
-    "nameZh": "暗鬼巨錘",
-    "nameJa": "",
-    "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX14_list.png",
-    "type": "defense",
-    "series": "BX",
-    "isAccessory": false,
-    "tier": "C",
-    "tierScore": 22.0,
-    "releaseDate": "2024-01-06",
-    "releasedTW": true,
-    "priceJPY": null,
-    "priceTWD": 499,
-    "marketPriceTWD": 217,
-    "availability": {
-      "momo": "available",
-      "pchome": null,
-      "funbox": "available",
-      "eslite": null,
-      "yahoo": "available"
-    },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-14%20%E6%9A%97%E9%AC%BC&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-14%20%E6%9A%97%E9%AC%BC",
-      "funbox": "https://www.funbox.com.tw/?s=BX-14%20%E6%9A%97%E9%AC%BC",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-14%20%E6%9A%97%E9%AC%BC",
-      "eslite": "https://www.eslite.com/search?keyword=BX-14%20%E6%9A%97%E9%AC%BC"
-    }
-  },
-  {
-    "id": "BX-15",
-    "code": "BX-15",
-    "nameZh": "地獄鐮刀 改",
-    "nameJa": "",
-    "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX15_list.png",
-    "type": null,
-    "series": "BX",
-    "isAccessory": false,
-    "tier": null,
-    "tierScore": null,
-    "releaseDate": "2024-01-06",
-    "releasedTW": true,
-    "priceJPY": null,
-    "priceTWD": null,
-    "marketPriceTWD": 537,
-    "availability": {
-      "momo": "available",
-      "pchome": null,
-      "funbox": "available",
-      "eslite": null,
-      "yahoo": "available"
-    },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-15%20%E5%9C%B0%E7%8D%84&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-15%20%E5%9C%B0%E7%8D%84",
-      "funbox": "https://www.funbox.com.tw/?s=BX-15%20%E5%9C%B0%E7%8D%84",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-15%20%E5%9C%B0%E7%8D%84",
-      "eslite": "https://www.eslite.com/search?keyword=BX-15%20%E5%9C%B0%E7%8D%84"
-    }
-  },
-  {
-    "id": "BX-16",
-    "code": "BX-16",
-    "nameZh": "霸王狂鯊",
-    "nameJa": "",
-    "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX16_list.png",
-    "type": "attack",
-    "series": "BX",
-    "isAccessory": false,
-    "tier": "B",
-    "tierScore": 39.0,
-    "releaseDate": "2024-01-06",
-    "releasedTW": true,
-    "priceJPY": null,
-    "priceTWD": 499,
-    "marketPriceTWD": 219,
-    "availability": {
-      "momo": "available",
-      "pchome": null,
-      "funbox": "available",
-      "eslite": null,
-      "yahoo": "available"
-    },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-16%20%E9%9C%B8%E7%8E%8B&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-16%20%E9%9C%B8%E7%8E%8B",
-      "funbox": "https://www.funbox.com.tw/?s=BX-16%20%E9%9C%B8%E7%8E%8B",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-16%20%E9%9C%B8%E7%8E%8B",
-      "eslite": "https://www.eslite.com/search?keyword=BX-16%20%E9%9C%B8%E7%8E%8B"
-    }
-  },
-  {
-    "id": "BX-17",
-    "code": "BX-17",
-    "nameZh": "鳳凰飛翼 B",
-    "nameJa": "",
-    "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX17_list.png",
-    "type": "attack",
-    "series": "BX",
-    "isAccessory": false,
-    "tier": null,
-    "tierScore": null,
-    "releaseDate": "2024-01-06",
-    "releasedTW": true,
-    "priceJPY": null,
-    "priceTWD": 499,
-    "marketPriceTWD": 960,
-    "availability": {
-      "momo": "available",
-      "pchome": null,
-      "funbox": "available",
-      "eslite": null,
-      "yahoo": "available"
-    },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-17%20%E9%B3%B3%E5%87%B0&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-17%20%E9%B3%B3%E5%87%B0",
-      "funbox": "https://www.funbox.com.tw/?s=BX-17%20%E9%B3%B3%E5%87%B0",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-17%20%E9%B3%B3%E5%87%B0",
-      "eslite": "https://www.eslite.com/search?keyword=BX-17%20%E9%B3%B3%E5%87%B0"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-18",
@@ -509,30 +439,23 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": null,
-    "marketPriceTWD": 352,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-18%20%E9%90%B5%E7%94%B2&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-18%20%E9%90%B5%E7%94%B2",
-      "funbox": "https://www.funbox.com.tw/?s=BX-18%20%E9%90%B5%E7%94%B2",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-18%20%E9%90%B5%E7%94%B2",
-      "eslite": "https://www.eslite.com/search?keyword=BX-18%20%E9%90%B5%E7%94%B2"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-19",
     "code": "BX-19",
-    "nameZh": "魔法弓矢 2",
+    "nameZh": "犀牛猛角",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX19_list.png",
-    "type": null,
+    "type": "balance",
     "series": "BX",
     "isAccessory": false,
     "tier": null,
@@ -540,31 +463,24 @@
     "releaseDate": "2024-04-06",
     "releasedTW": true,
     "priceJPY": null,
-    "priceTWD": null,
-    "marketPriceTWD": 290,
+    "priceTWD": 499,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-19%20%E9%AD%94%E6%B3%95&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-19%20%E9%AD%94%E6%B3%95",
-      "funbox": "https://www.funbox.com.tw/?s=BX-19%20%E9%AD%94%E6%B3%95",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-19%20%E9%AD%94%E6%B3%95",
-      "eslite": "https://www.eslite.com/search?keyword=BX-19%20%E9%AD%94%E6%B3%95"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-20",
     "code": "BX-20",
-    "nameZh": "狂鯊銳齒",
+    "nameZh": "三入強化組",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX20_list.png",
-    "type": "attack",
+    "type": null,
     "series": "BX",
     "isAccessory": false,
     "tier": "C",
@@ -573,22 +489,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": 290,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-20%20%E7%8B%82%E9%AF%8A&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-20%20%E7%8B%82%E9%AF%8A",
-      "funbox": "https://www.funbox.com.tw/?s=BX-20%20%E7%8B%82%E9%AF%8A",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-20%20%E7%8B%82%E9%AF%8A",
-      "eslite": "https://www.eslite.com/search?keyword=BX-20%20%E7%8B%82%E9%AF%8A"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-21",
@@ -613,23 +522,23 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-22",
     "code": "BX-22",
-    "nameZh": "隨機強化組 Vol.5",
+    "nameZh": "蒼龍斬刃 改",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX22_list.png",
-    "type": null,
+    "type": "attack",
     "series": "BX",
-    "isAccessory": true,
+    "isAccessory": false,
     "tier": null,
     "tierScore": null,
     "releaseDate": "2024-07-06",
     "releasedTW": true,
     "priceJPY": null,
-    "priceTWD": null,
+    "priceTWD": 499,
     "marketPriceTWD": null,
     "availability": {
       "momo": null,
@@ -638,7 +547,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-23",
@@ -655,30 +564,23 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 699,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-23%20%E9%B3%B3%E5%87%B0&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-23%20%E9%B3%B3%E5%87%B0",
-      "funbox": "https://www.funbox.com.tw/?s=BX-23%20%E9%B3%B3%E5%87%B0",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-23%20%E9%B3%B3%E5%87%B0",
-      "eslite": "https://www.eslite.com/search?keyword=BX-23%20%E9%B3%B3%E5%87%B0"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-24",
     "code": "BX-24",
-    "nameZh": "龍王閃擊",
+    "nameZh": "六入強化組",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX24_list.png",
-    "type": "balance",
+    "type": null,
     "series": "BX",
     "isAccessory": false,
     "tier": "B",
@@ -687,22 +589,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 546,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-24%20%E9%BE%8D%E7%8E%8B&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-24%20%E9%BE%8D%E7%8E%8B",
-      "funbox": "https://www.funbox.com.tw/?s=BX-24%20%E9%BE%8D%E7%8E%8B",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-24%20%E9%BE%8D%E7%8E%8B",
-      "eslite": "https://www.eslite.com/search?keyword=BX-24%20%E9%BE%8D%E7%8E%8B"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-25",
@@ -727,12 +622,12 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-26",
     "code": "BX-26",
-    "nameZh": "蒼龍斬刃 2",
+    "nameZh": "獨角刺穿",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX26_list.png",
     "type": "attack",
@@ -744,54 +639,40 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 599,
-    "marketPriceTWD": 656,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-26%20%E8%92%BC%E9%BE%8D&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-26%20%E8%92%BC%E9%BE%8D",
-      "funbox": "https://www.funbox.com.tw/?s=BX-26%20%E8%92%BC%E9%BE%8D",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-26%20%E8%92%BC%E9%BE%8D",
-      "eslite": "https://www.eslite.com/search?keyword=BX-26%20%E8%92%BC%E9%BE%8D"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-27",
     "code": "BX-27",
-    "nameZh": "地獄鐵鏈",
+    "nameZh": "獅身甲隨機組",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX27_list.png",
-    "type": "defense",
+    "type": null,
     "series": "BX",
-    "isAccessory": false,
+    "isAccessory": true,
     "tier": null,
     "tierScore": null,
     "releaseDate": "2024-10-05",
     "releasedTW": true,
     "priceJPY": null,
-    "priceTWD": 599,
-    "marketPriceTWD": 549,
+    "priceTWD": null,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-27%20%E5%9C%B0%E7%8D%84&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-27%20%E5%9C%B0%E7%8D%84",
-      "funbox": "https://www.funbox.com.tw/?s=BX-27%20%E5%9C%B0%E7%8D%84",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-27%20%E5%9C%B0%E7%8D%84",
-      "eslite": "https://www.eslite.com/search?keyword=BX-27%20%E5%9C%B0%E7%8D%84"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-28",
@@ -808,22 +689,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 599,
-    "marketPriceTWD": 511,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-28%20%E9%AD%94%E5%83%8F&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-28%20%E9%AD%94%E5%83%8F",
-      "funbox": "https://www.funbox.com.tw/?s=BX-28%20%E9%AD%94%E5%83%8F",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-28%20%E9%AD%94%E5%83%8F",
-      "eslite": "https://www.eslite.com/search?keyword=BX-28%20%E9%AD%94%E5%83%8F"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-29",
@@ -840,22 +714,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 599,
-    "marketPriceTWD": 605,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-29%20%E9%A8%8E%E5%A3%AB&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-29%20%E9%A8%8E%E5%A3%AB",
-      "funbox": "https://www.funbox.com.tw/?s=BX-29%20%E9%A8%8E%E5%A3%AB",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-29%20%E9%A8%8E%E5%A3%AB",
-      "eslite": "https://www.eslite.com/search?keyword=BX-29%20%E9%A8%8E%E5%A3%AB"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-30",
@@ -880,7 +747,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-31",
@@ -905,7 +772,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-32",
@@ -930,12 +797,12 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-33",
     "code": "BX-33",
-    "nameZh": "地獄鐮刀 2",
+    "nameZh": "白虎迅雷",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX33_list.png",
     "type": "defense",
@@ -947,27 +814,20 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 235,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-33%20%E5%9C%B0%E7%8D%84&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-33%20%E5%9C%B0%E7%8D%84",
-      "funbox": "https://www.funbox.com.tw/?s=BX-33%20%E5%9C%B0%E7%8D%84",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-33%20%E5%9C%B0%E7%8D%84",
-      "eslite": "https://www.eslite.com/search?keyword=BX-33%20%E5%9C%B0%E7%8D%84"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-34",
     "code": "BX-34",
-    "nameZh": "霸王狂鯊 2",
+    "nameZh": "蒼穹龍騎士",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX34_list.png",
     "type": "attack",
@@ -979,30 +839,23 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 269,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-34%20%E9%9C%B8%E7%8E%8B&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-34%20%E9%9C%B8%E7%8E%8B",
-      "funbox": "https://www.funbox.com.tw/?s=BX-34%20%E9%9C%B8%E7%8E%8B",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-34%20%E9%9C%B8%E7%8E%8B",
-      "eslite": "https://www.eslite.com/search?keyword=BX-34%20%E9%9C%B8%E7%8E%8B"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-35",
     "code": "BX-35",
-    "nameZh": "鳳凰飛翼 2",
+    "nameZh": "六入強化組 Vol.2",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX35_list.png",
-    "type": "attack",
+    "type": null,
     "series": "BX",
     "isAccessory": false,
     "tier": "B",
@@ -1011,30 +864,23 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 580,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-35%20%E9%B3%B3%E5%87%B0&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-35%20%E9%B3%B3%E5%87%B0",
-      "funbox": "https://www.funbox.com.tw/?s=BX-35%20%E9%B3%B3%E5%87%B0",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-35%20%E9%B3%B3%E5%87%B0",
-      "eslite": "https://www.eslite.com/search?keyword=BX-35%20%E9%B3%B3%E5%87%B0"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-36",
     "code": "BX-36",
-    "nameZh": "蒼龍爆刃 2",
+    "nameZh": "巨鯨怒濤",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX36_list.png",
-    "type": "attack",
+    "type": "balance",
     "series": "BX",
     "isAccessory": false,
     "tier": "A",
@@ -1043,30 +889,23 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 290,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-36%20%E8%92%BC%E9%BE%8D&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-36%20%E8%92%BC%E9%BE%8D",
-      "funbox": "https://www.funbox.com.tw/?s=BX-36%20%E8%92%BC%E9%BE%8D",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-36%20%E8%92%BC%E9%BE%8D",
-      "eslite": "https://www.eslite.com/search?keyword=BX-36%20%E8%92%BC%E9%BE%8D"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-37",
     "code": "BX-37",
-    "nameZh": "魔法弓矢 3",
+    "nameZh": "熊掌爪擊",
     "nameJa": "",
     "imageUrl": "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/BX37_list.png",
-    "type": null,
+    "type": "attack",
     "series": "BX",
     "isAccessory": false,
     "tier": null,
@@ -1075,22 +914,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 390,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-37%20%E9%AD%94%E6%B3%95&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-37%20%E9%AD%94%E6%B3%95",
-      "funbox": "https://www.funbox.com.tw/?s=BX-37%20%E9%AD%94%E6%B3%95",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-37%20%E9%AD%94%E6%B3%95",
-      "eslite": "https://www.eslite.com/search?keyword=BX-37%20%E9%AD%94%E6%B3%95"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-38",
@@ -1107,22 +939,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 476,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-38%20%E8%B5%AB%E7%84%B6&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-38%20%E8%B5%AB%E7%84%B6",
-      "funbox": "https://www.funbox.com.tw/?s=BX-38%20%E8%B5%AB%E7%84%B6",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-38%20%E8%B5%AB%E7%84%B6",
-      "eslite": "https://www.eslite.com/search?keyword=BX-38%20%E8%B5%AB%E7%84%B6"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-39",
@@ -1147,7 +972,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-40",
@@ -1172,7 +997,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-41",
@@ -1197,7 +1022,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-42",
@@ -1222,7 +1047,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-43",
@@ -1247,7 +1072,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-44",
@@ -1264,22 +1089,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 899,
-    "marketPriceTWD": 990,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-44%20%E4%B8%89%E8%A7%92&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-44%20%E4%B8%89%E8%A7%92",
-      "funbox": "https://www.funbox.com.tw/?s=BX-44%20%E4%B8%89%E8%A7%92",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-44%20%E4%B8%89%E8%A7%92",
-      "eslite": "https://www.eslite.com/search?keyword=BX-44%20%E4%B8%89%E8%A7%92"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-45",
@@ -1296,22 +1114,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 899,
-    "marketPriceTWD": 457,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-45%20%E6%AD%A6%E5%A3%AB&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-45%20%E6%AD%A6%E5%A3%AB",
-      "funbox": "https://www.funbox.com.tw/?s=BX-45%20%E6%AD%A6%E5%A3%AB",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-45%20%E6%AD%A6%E5%A3%AB",
-      "eslite": "https://www.eslite.com/search?keyword=BX-45%20%E6%AD%A6%E5%A3%AB"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-46",
@@ -1336,7 +1147,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-47",
@@ -1361,7 +1172,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-48",
@@ -1386,7 +1197,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-49",
@@ -1403,22 +1214,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": 845,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-49%20%E8%92%BC%E9%BE%8D&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=BX-49%20%E8%92%BC%E9%BE%8D",
-      "funbox": "https://www.funbox.com.tw/?s=BX-49%20%E8%92%BC%E9%BE%8D",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=BX-49%20%E8%92%BC%E9%BE%8D",
-      "eslite": "https://www.eslite.com/search?keyword=BX-49%20%E8%92%BC%E9%BE%8D"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-50",
@@ -1443,7 +1247,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "BX-51",
@@ -1468,7 +1272,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-01",
@@ -1487,20 +1291,13 @@
     "priceTWD": 699,
     "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-01%20%E8%92%BC%E9%BE%8D&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-01%20%E8%92%BC%E9%BE%8D",
-      "funbox": "https://www.funbox.com.tw/?s=UX-01%20%E8%92%BC%E9%BE%8D",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-01%20%E8%92%BC%E9%BE%8D",
-      "eslite": "https://www.eslite.com/search?keyword=UX-01%20%E8%92%BC%E9%BE%8D"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-02",
@@ -1517,22 +1314,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 899,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-02%20%E6%83%A1%E9%AD%94&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-02%20%E6%83%A1%E9%AD%94",
-      "funbox": "https://www.funbox.com.tw/?s=UX-02%20%E6%83%A1%E9%AD%94",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-02%20%E6%83%A1%E9%AD%94",
-      "eslite": "https://www.eslite.com/search?keyword=UX-02%20%E6%83%A1%E9%AD%94"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-03",
@@ -1551,20 +1341,13 @@
     "priceTWD": 699,
     "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-03%20%E9%AD%94%E5%B0%8E&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-03%20%E9%AD%94%E5%B0%8E",
-      "funbox": "https://www.funbox.com.tw/?s=UX-03%20%E9%AD%94%E5%B0%8E",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-03%20%E9%AD%94%E5%B0%8E",
-      "eslite": "https://www.eslite.com/search?keyword=UX-03%20%E9%AD%94%E5%B0%8E"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-04",
@@ -1581,22 +1364,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 690,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-04%20%E8%A1%9D%E6%93%8A&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-04%20%E8%A1%9D%E6%93%8A",
-      "funbox": "https://www.funbox.com.tw/?s=UX-04%20%E8%A1%9D%E6%93%8A",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-04%20%E8%A1%9D%E6%93%8A",
-      "eslite": "https://www.eslite.com/search?keyword=UX-04%20%E8%A1%9D%E6%93%8A"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-05",
@@ -1613,22 +1389,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 290,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-05%20%E8%A0%8D%E5%AD%90&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-05%20%E8%A0%8D%E5%AD%90",
-      "funbox": "https://www.funbox.com.tw/?s=UX-05%20%E8%A0%8D%E5%AD%90",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-05%20%E8%A0%8D%E5%AD%90",
-      "eslite": "https://www.eslite.com/search?keyword=UX-05%20%E8%A0%8D%E5%AD%90"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-06",
@@ -1645,22 +1414,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 699,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-06%20%E9%9B%84%E7%8D%85&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-06%20%E9%9B%84%E7%8D%85",
-      "funbox": "https://www.funbox.com.tw/?s=UX-06%20%E9%9B%84%E7%8D%85",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-06%20%E9%9B%84%E7%8D%85",
-      "eslite": "https://www.eslite.com/search?keyword=UX-06%20%E9%9B%84%E7%8D%85"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-07",
@@ -1677,22 +1439,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 499,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-07%20%E9%9C%9C%E8%BC%9D&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-07%20%E9%9C%9C%E8%BC%9D",
-      "funbox": "https://www.funbox.com.tw/?s=UX-07%20%E9%9C%9C%E8%BC%9D",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-07%20%E9%9C%9C%E8%BC%9D",
-      "eslite": "https://www.eslite.com/search?keyword=UX-07%20%E9%9C%9C%E8%BC%9D"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-08",
@@ -1709,22 +1464,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 699,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-08%20%E9%9C%9C%E7%81%B0&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-08%20%E9%9C%9C%E7%81%B0",
-      "funbox": "https://www.funbox.com.tw/?s=UX-08%20%E9%9C%9C%E7%81%B0",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-08%20%E9%9C%9C%E7%81%B0",
-      "eslite": "https://www.eslite.com/search?keyword=UX-08%20%E9%9C%9C%E7%81%B0"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-09",
@@ -1749,7 +1497,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-10",
@@ -1766,22 +1514,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 400,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-10%20%E9%A8%8E%E5%A3%AB&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-10%20%E9%A8%8E%E5%A3%AB",
-      "funbox": "https://www.funbox.com.tw/?s=UX-10%20%E9%A8%8E%E5%A3%AB",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-10%20%E9%A8%8E%E5%A3%AB",
-      "eslite": "https://www.eslite.com/search?keyword=UX-10%20%E9%A8%8E%E5%A3%AB"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-11",
@@ -1798,22 +1539,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 799,
-    "marketPriceTWD": 443,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-11%20%E8%A1%9D%E6%93%8A&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-11%20%E8%A1%9D%E6%93%8A",
-      "funbox": "https://www.funbox.com.tw/?s=UX-11%20%E8%A1%9D%E6%93%8A",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-11%20%E8%A1%9D%E6%93%8A",
-      "eslite": "https://www.eslite.com/search?keyword=UX-11%20%E8%A1%9D%E6%93%8A"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-12",
@@ -1838,7 +1572,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-13",
@@ -1855,22 +1589,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 799,
-    "marketPriceTWD": 292,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-13%20%E9%AD%94%E5%83%8F&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-13%20%E9%AD%94%E5%83%8F",
-      "funbox": "https://www.funbox.com.tw/?s=UX-13%20%E9%AD%94%E5%83%8F",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-13%20%E9%AD%94%E5%83%8F",
-      "eslite": "https://www.eslite.com/search?keyword=UX-13%20%E9%AD%94%E5%83%8F"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-14",
@@ -1887,22 +1614,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 799,
-    "marketPriceTWD": 590,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-14%20%E5%A4%A9%E8%A0%8D&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-14%20%E5%A4%A9%E8%A0%8D",
-      "funbox": "https://www.funbox.com.tw/?s=UX-14%20%E5%A4%A9%E8%A0%8D",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-14%20%E5%A4%A9%E8%A0%8D",
-      "eslite": "https://www.eslite.com/search?keyword=UX-14%20%E5%A4%A9%E8%A0%8D"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-15",
@@ -1919,22 +1639,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 1299,
-    "marketPriceTWD": 434,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-15%20%E9%AE%AB%E9%AF%8A&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-15%20%E9%AE%AB%E9%AF%8A",
-      "funbox": "https://www.funbox.com.tw/?s=UX-15%20%E9%AE%AB%E9%AF%8A",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-15%20%E9%AE%AB%E9%AF%8A",
-      "eslite": "https://www.eslite.com/search?keyword=UX-15%20%E9%AE%AB%E9%AF%8A"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-16",
@@ -1951,22 +1664,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": 969,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-16%20%E6%99%82%E9%90%98&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-16%20%E6%99%82%E9%90%98",
-      "funbox": "https://www.funbox.com.tw/?s=UX-16%20%E6%99%82%E9%90%98",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-16%20%E6%99%82%E9%90%98",
-      "eslite": "https://www.eslite.com/search?keyword=UX-16%20%E6%99%82%E9%90%98"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-17",
@@ -1985,20 +1691,13 @@
     "priceTWD": 899,
     "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-17%20%E6%AE%9E%E6%98%9F&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-17%20%E6%AE%9E%E6%98%9F",
-      "funbox": "https://www.funbox.com.tw/?s=UX-17%20%E6%AE%9E%E6%98%9F",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-17%20%E6%AE%9E%E6%98%9F",
-      "eslite": "https://www.eslite.com/search?keyword=UX-17%20%E6%AE%9E%E6%98%9F"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-18",
@@ -2023,7 +1722,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-19",
@@ -2040,22 +1739,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": 890,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=UX-19%20%E5%AD%90%E5%BD%88&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=UX-19%20%E5%AD%90%E5%BD%88",
-      "funbox": "https://www.funbox.com.tw/?s=UX-19%20%E5%AD%90%E5%BD%88",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=UX-19%20%E5%AD%90%E5%BD%88",
-      "eslite": "https://www.eslite.com/search?keyword=UX-19%20%E5%AD%90%E5%BD%88"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "UX-20",
@@ -2080,7 +1772,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-01",
@@ -2099,20 +1791,13 @@
     "priceTWD": 699,
     "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-01%20%E8%92%BC%E9%BE%8D&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-01%20%E8%92%BC%E9%BE%8D",
-      "funbox": "https://www.funbox.com.tw/?s=CX-01%20%E8%92%BC%E9%BE%8D",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-01%20%E8%92%BC%E9%BE%8D",
-      "eslite": "https://www.eslite.com/search?keyword=CX-01%20%E8%92%BC%E9%BE%8D"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-02",
@@ -2129,22 +1814,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 390,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-02%20%E9%AD%94%E5%B0%8E&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-02%20%E9%AD%94%E5%B0%8E",
-      "funbox": "https://www.funbox.com.tw/?s=CX-02%20%E9%AD%94%E5%B0%8E",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-02%20%E9%AD%94%E5%B0%8E",
-      "eslite": "https://www.eslite.com/search?keyword=CX-02%20%E9%AD%94%E5%B0%8E"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-03",
@@ -2161,22 +1839,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 593,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-03%20%E5%86%A5%E7%95%8C&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-03%20%E5%86%A5%E7%95%8C",
-      "funbox": "https://www.funbox.com.tw/?s=CX-03%20%E5%86%A5%E7%95%8C",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-03%20%E5%86%A5%E7%95%8C",
-      "eslite": "https://www.eslite.com/search?keyword=CX-03%20%E5%86%A5%E7%95%8C"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-04",
@@ -2201,7 +1872,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-05",
@@ -2226,7 +1897,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-06",
@@ -2251,7 +1922,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-07",
@@ -2268,22 +1939,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 699,
-    "marketPriceTWD": 259,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-07%20%E5%A4%A9%E9%A6%AC&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-07%20%E5%A4%A9%E9%A6%AC",
-      "funbox": "https://www.funbox.com.tw/?s=CX-07%20%E5%A4%A9%E9%A6%AC",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-07%20%E5%A4%A9%E9%A6%AC",
-      "eslite": "https://www.eslite.com/search?keyword=CX-07%20%E5%A4%A9%E9%A6%AC"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-08",
@@ -2308,7 +1972,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-09",
@@ -2325,22 +1989,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 799,
-    "marketPriceTWD": 593,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-09%20%E5%A4%A9%E9%A6%AC&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-09%20%E5%A4%A9%E9%A6%AC",
-      "funbox": "https://www.funbox.com.tw/?s=CX-09%20%E5%A4%A9%E9%A6%AC",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-09%20%E5%A4%A9%E9%A6%AC",
-      "eslite": "https://www.eslite.com/search?keyword=CX-09%20%E5%A4%A9%E9%A6%AC"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-10",
@@ -2357,22 +2014,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 799,
-    "marketPriceTWD": 990,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-10%20%E9%8A%80%E7%8B%BC&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-10%20%E9%8A%80%E7%8B%BC",
-      "funbox": "https://www.funbox.com.tw/?s=CX-10%20%E9%8A%80%E7%8B%BC",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-10%20%E9%8A%80%E7%8B%BC",
-      "eslite": "https://www.eslite.com/search?keyword=CX-10%20%E9%8A%80%E7%8B%BC"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-11",
@@ -2389,22 +2039,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": 990,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-11%20%E5%B8%9D%E7%8E%8B&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-11%20%E5%B8%9D%E7%8E%8B",
-      "funbox": "https://www.funbox.com.tw/?s=CX-11%20%E5%B8%9D%E7%8E%8B",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-11%20%E5%B8%9D%E7%8E%8B",
-      "eslite": "https://www.eslite.com/search?keyword=CX-11%20%E5%B8%9D%E7%8E%8B"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-12",
@@ -2421,22 +2064,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 899,
-    "marketPriceTWD": 290,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-12%20%E9%B3%B3%E5%87%B0&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-12%20%E9%B3%B3%E5%87%B0",
-      "funbox": "https://www.funbox.com.tw/?s=CX-12%20%E9%B3%B3%E5%87%B0",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-12%20%E9%B3%B3%E5%87%B0",
-      "eslite": "https://www.eslite.com/search?keyword=CX-12%20%E9%B3%B3%E5%87%B0"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-13",
@@ -2453,22 +2089,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": 495,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-13%20%E9%BE%8D%E7%8E%8B&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-13%20%E9%BE%8D%E7%8E%8B",
-      "funbox": "https://www.funbox.com.tw/?s=CX-13%20%E9%BE%8D%E7%8E%8B",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-13%20%E9%BE%8D%E7%8E%8B",
-      "eslite": "https://www.eslite.com/search?keyword=CX-13%20%E9%BE%8D%E7%8E%8B"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-14",
@@ -2485,22 +2114,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 999,
-    "marketPriceTWD": 839,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-14%20%E9%A8%8E%E5%A3%AB&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-14%20%E9%A8%8E%E5%A3%AB",
-      "funbox": "https://www.funbox.com.tw/?s=CX-14%20%E9%A8%8E%E5%A3%AB",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-14%20%E9%A8%8E%E5%A3%AB",
-      "eslite": "https://www.eslite.com/search?keyword=CX-14%20%E9%A8%8E%E5%A3%AB"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-15",
@@ -2519,20 +2141,13 @@
     "priceTWD": 999,
     "marketPriceTWD": null,
     "availability": {
-      "momo": "soldout",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-15%20%E9%82%AA%E7%A5%9E&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-15%20%E9%82%AA%E7%A5%9E",
-      "funbox": "https://www.funbox.com.tw/?s=CX-15%20%E9%82%AA%E7%A5%9E",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-15%20%E9%82%AA%E7%A5%9E",
-      "eslite": "https://www.eslite.com/search?keyword=CX-15%20%E9%82%AA%E7%A5%9E"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-16",
@@ -2549,22 +2164,15 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 1099,
-    "marketPriceTWD": 269,
+    "marketPriceTWD": null,
     "availability": {
-      "momo": "available",
+      "momo": null,
       "pchome": null,
-      "funbox": "available",
+      "funbox": null,
       "eslite": null,
-      "yahoo": "available"
+      "yahoo": null
     },
-    "lastUpdated": "2026-06-26T01:40:08.268959+00:00",
-    "storeUrls": {
-      "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=CX-16%20%E7%95%B0%E8%89%B2&searchType=1",
-      "pchome": "https://shopping.pchome.com.tw/?q=CX-16%20%E7%95%B0%E8%89%B2",
-      "funbox": "https://www.funbox.com.tw/?s=CX-16%20%E7%95%B0%E8%89%B2",
-      "yahoo": "https://tw.buy.yahoo.com/search/product?p=CX-16%20%E7%95%B0%E8%89%B2",
-      "eslite": "https://www.eslite.com/search?keyword=CX-16%20%E7%95%B0%E8%89%B2"
-    }
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-17",
@@ -2589,7 +2197,7 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   },
   {
     "id": "CX-18",
@@ -2614,6 +2222,6 @@
       "eslite": null,
       "yahoo": null
     },
-    "lastUpdated": "2026-06-25T09:23:30.692357+00:00"
+    "lastUpdated": "2026-06-26T02:04:37.602751+00:00"
   }
 ]
