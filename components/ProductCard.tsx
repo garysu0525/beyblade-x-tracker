@@ -1,12 +1,81 @@
 "use client";
 import Image from "next/image";
-import type { Product } from "@/lib/types";
+import type { Product, PreorderStore } from "@/lib/types";
 import { TYPE_LABELS, TYPE_COLORS, TIER_COLORS, STOCK_LABELS, getOverallStatus, daysUntil } from "@/lib/data";
 import { useState } from "react";
 
 const STORE_NAMES: Record<string, string> = {
   momo: "MOMO", pchome: "PChome", funbox: "FunBox", eslite: "誠品", yahoo: "Yahoo",
 };
+
+function PreorderSection({ product }: { product: Product }) {
+  const po = product.preorder;
+  if (!po?.available) return null;
+
+  const fmt = (d?: string | null) => {
+    if (!d) return null;
+    return new Date(d).toLocaleDateString("zh-TW", { year: "numeric", month: "long", day: "numeric" });
+  };
+
+  return (
+    <div className="mb-3 rounded-xl border border-indigo-200 dark:border-indigo-800 bg-indigo-50 dark:bg-indigo-950/40 p-3">
+      <p className="text-xs font-bold text-indigo-700 dark:text-indigo-300 mb-2 flex items-center gap-1">
+        <span>🛒</span> 預購資訊
+      </p>
+
+      {/* 日期資訊 */}
+      <div className="flex flex-wrap gap-x-4 gap-y-1 mb-2 text-xs text-indigo-900 dark:text-indigo-200">
+        {po.startDate && (
+          <span><span className="text-indigo-500">預購開始：</span>{fmt(po.startDate)}</span>
+        )}
+        {po.endDate && (
+          <span><span className="text-indigo-500">預購截止：</span>{fmt(po.endDate)}</span>
+        )}
+        {po.estimatedShipDate && (
+          <span><span className="text-indigo-500">預計出貨：</span>{fmt(po.estimatedShipDate)}</span>
+        )}
+      </div>
+
+      {/* 預購通路 */}
+      {po.stores && po.stores.length > 0 && (
+        <div className="space-y-1.5 mb-2">
+          {po.stores.map((store: PreorderStore, i: number) => (
+            <div key={i} className="flex items-start gap-2 text-xs">
+              <span className="shrink-0 font-semibold text-indigo-700 dark:text-indigo-300 w-16">{store.name}</span>
+              <div className="flex flex-wrap items-center gap-1.5">
+                {store.method && (
+                  <span className="bg-indigo-100 dark:bg-indigo-900 text-indigo-700 dark:text-indigo-300 px-1.5 py-0.5 rounded">
+                    {store.method}
+                  </span>
+                )}
+                {store.url && (
+                  <a
+                    href={store.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-indigo-600 dark:text-indigo-400 underline hover:text-indigo-800"
+                  >
+                    前往預購 →
+                  </a>
+                )}
+                {store.note && (
+                  <span className="text-indigo-500 dark:text-indigo-400">{store.note}</span>
+                )}
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+
+      {/* 備注 */}
+      {po.notes && (
+        <p className="text-xs text-indigo-600 dark:text-indigo-400 border-t border-indigo-200 dark:border-indigo-800 pt-2 mt-1">
+          {po.notes}
+        </p>
+      )}
+    </div>
+  );
+}
 
 function PriceBadge({ msrp, market }: { msrp: number | null; market: number | null }) {
   if (!msrp) return null;
@@ -105,6 +174,9 @@ export default function ProductCard({ product }: { product: Product }) {
 
       {expanded && (
         <div className="px-4 pb-4 border-t border-gray-50 dark:border-neutral-800 pt-3">
+          {/* 預購資訊 */}
+          <PreorderSection product={product} />
+
           {/* Price comparison detail */}
           {product.priceTWD && (
             <div className="mb-3 flex items-center gap-3 text-xs text-gray-500">

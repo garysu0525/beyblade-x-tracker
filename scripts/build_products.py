@@ -160,6 +160,54 @@ ACCESSORY = {
     "CX-04","CX-05","CX-06","CX-08","CX-17",
 }
 
+# 預購資訊（手動維護）
+# stores 欄位：name=通路名稱, url=預購連結, method=預購方式, note=備注
+PREORDER_DATA = {
+    "UX-20": {
+        "available": True,
+        "startDate": None,           # 預購開始日期（格式 YYYY-MM-DD，不確定可留 null）
+        "endDate": None,             # 預購截止日期
+        "estimatedShipDate": "2026-07-19",
+        "stores": [
+            {
+                "name": "FUNBOX",
+                "url": "https://www.funbox.com.tw/?s=UX-20",
+                "method": "線上預購",
+                "note": None,
+            },
+        ],
+        "notes": "台灣官方代理 FUNBOX，預購通路待確認",
+    },
+    "CX-18": {
+        "available": True,
+        "startDate": None,
+        "endDate": None,
+        "estimatedShipDate": "2026-07-19",
+        "stores": [
+            {
+                "name": "FUNBOX",
+                "url": "https://www.funbox.com.tw/?s=CX-18",
+                "method": "線上預購",
+                "note": None,
+            },
+        ],
+        "notes": "台灣官方代理 FUNBOX，預購通路待確認",
+    },
+    # 範例：未來新商品預購資訊格式
+    # "BX-52": {
+    #     "available": True,
+    #     "startDate": "2026-09-01",
+    #     "endDate": "2026-09-30",
+    #     "estimatedShipDate": "2026-10-10",
+    #     "stores": [
+    #         {"name": "FUNBOX", "url": "https://...", "method": "線上預購", "note": "限量 500 個"},
+    #         {"name": "MOMO", "url": "https://...", "method": "線上預購"},
+    #         {"name": "全家便利商店", "method": "到店預購", "note": "需至門市填預購單"},
+    #     ],
+    #     "notes": "首批限量發售，售完不補",
+    # },
+}
+
 IMG = "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/{}_list.png"
 TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 NOW_ISO = datetime.now(timezone.utc).isoformat()
@@ -196,6 +244,7 @@ for code in ALL_CODES:
             "momo": None, "pchome": None, "funbox": None,
             "eslite": None, "yahoo": None,
         },
+        "preorder": PREORDER_DATA.get(code),
         "lastUpdated": NOW_ISO,
     })
 
