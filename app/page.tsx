@@ -46,27 +46,105 @@ export default function HomePage() {
         </span>
       </div>
 
-      {/* Upcoming banner */}
-      {upcoming.map((p) => {
-        const days = daysUntil(p.releaseDate);
-        return (
-          <div key={p.id} className="mb-4 bg-indigo-50 dark:bg-indigo-950 border border-indigo-200 dark:border-indigo-800 rounded-2xl p-4 flex items-center gap-3">
-            <div className="w-12 h-12 rounded-xl bg-white dark:bg-indigo-900 flex items-center justify-center flex-shrink-0 overflow-hidden">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={p.imageUrl} alt={p.nameZh} className="w-full h-full object-contain" />
-            </div>
-            <div className="flex-1 min-w-0">
-              <p className="text-xs text-indigo-500 font-medium mb-0.5">即將發售</p>
-              <p className="font-semibold text-sm text-indigo-900 dark:text-indigo-100 truncate">{p.nameZh}</p>
-              <p className="text-xs text-indigo-400">{p.code} · {new Date(p.releaseDate).toLocaleDateString("zh-TW")}</p>
-            </div>
-            <div className="text-right flex-shrink-0">
-              <p className="text-2xl font-bold text-indigo-600">{days}</p>
-              <p className="text-xs text-indigo-400">天後</p>
-            </div>
+      {/* Preorder + Upcoming section */}
+      {upcoming.length > 0 && (
+        <div className="mb-4 bg-indigo-50 dark:bg-indigo-950 border border-indigo-200 dark:border-indigo-800 rounded-2xl overflow-hidden">
+          {/* Section header */}
+          <div className="px-4 pt-3 pb-2 border-b border-indigo-100 dark:border-indigo-900 flex items-center gap-2">
+            <span className="text-sm">🛒</span>
+            <span className="text-xs font-bold text-indigo-700 dark:text-indigo-300">預購 / 即將發售</span>
+            <span className="ml-auto text-xs text-indigo-400">{upcoming.length} 款</span>
           </div>
-        );
-      })}
+
+          {upcoming.map((p, idx) => {
+            const days = daysUntil(p.releaseDate);
+            const po = p.preorder;
+            return (
+              <div
+                key={p.id}
+                className={`px-4 py-3 ${idx < upcoming.length - 1 ? "border-b border-indigo-100 dark:border-indigo-900" : ""}`}
+              >
+                {/* 商品基本資訊 */}
+                <div className="flex items-center gap-3 mb-2">
+                  <div className="w-10 h-10 rounded-lg bg-white dark:bg-indigo-900 flex items-center justify-center flex-shrink-0 overflow-hidden">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img src={p.imageUrl} alt={p.nameZh} className="w-full h-full object-contain" />
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-baseline gap-1.5">
+                      <span className="text-xs text-indigo-400 font-mono">{p.code}</span>
+                      <span className="font-semibold text-sm text-indigo-900 dark:text-indigo-100 truncate">{p.nameZh}</span>
+                    </div>
+                    <p className="text-xs text-indigo-400 mt-0.5">
+                      發售日：{new Date(p.releaseDate).toLocaleDateString("zh-TW")}
+                    </p>
+                  </div>
+                  <div className="text-right flex-shrink-0">
+                    <p className="text-xl font-bold text-indigo-600 leading-none">{days}</p>
+                    <p className="text-xs text-indigo-400">天後</p>
+                  </div>
+                </div>
+
+                {/* 預購詳情 */}
+                {po?.available ? (
+                  <div className="bg-white dark:bg-indigo-900/50 rounded-xl px-3 py-2 space-y-1.5">
+                    {/* 日期列 */}
+                    <div className="flex flex-wrap gap-x-4 gap-y-0.5 text-xs text-indigo-700 dark:text-indigo-300">
+                      {po.startDate && (
+                        <span>📅 預購開始：{new Date(po.startDate).toLocaleDateString("zh-TW")}</span>
+                      )}
+                      {po.endDate && (
+                        <span>⏰ 截止：{new Date(po.endDate).toLocaleDateString("zh-TW")}</span>
+                      )}
+                      {po.estimatedShipDate && (
+                        <span>📦 預計出貨：{new Date(po.estimatedShipDate).toLocaleDateString("zh-TW")}</span>
+                      )}
+                    </div>
+
+                    {/* 通路列 */}
+                    {po.stores && po.stores.length > 0 && (
+                      <div className="flex flex-wrap gap-2">
+                        {po.stores.map((store, i) => (
+                          <div key={i} className="flex items-center gap-1.5 text-xs">
+                            <span className="font-semibold text-indigo-700 dark:text-indigo-300">{store.name}</span>
+                            {store.method && (
+                              <span className="bg-indigo-100 dark:bg-indigo-800 text-indigo-600 dark:text-indigo-300 px-1.5 py-0.5 rounded">
+                                {store.method}
+                              </span>
+                            )}
+                            {store.url && (
+                              <a
+                                href={store.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="bg-indigo-600 text-white px-2 py-0.5 rounded font-medium hover:bg-indigo-700 transition-colors"
+                              >
+                                前往預購 →
+                              </a>
+                            )}
+                            {store.note && (
+                              <span className="text-indigo-400">{store.note}</span>
+                            )}
+                          </div>
+                        ))}
+                      </div>
+                    )}
+
+                    {/* 備注 */}
+                    {po.notes && (
+                      <p className="text-xs text-indigo-400">{po.notes}</p>
+                    )}
+                  </div>
+                ) : (
+                  <div className="bg-white dark:bg-indigo-900/30 rounded-xl px-3 py-2">
+                    <p className="text-xs text-indigo-400">預購資訊待公告</p>
+                  </div>
+                )}
+              </div>
+            );
+          })}
+        </div>
+      )}
 
       {/* Search */}
       <div className="relative mb-3">
