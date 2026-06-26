@@ -165,18 +165,18 @@ ACCESSORY = {
 PREORDER_DATA = {
     "UX-20": {
         "available": True,
-        "startDate": None,           # 預購開始日期（格式 YYYY-MM-DD，不確定可留 null）
-        "endDate": None,             # 預購截止日期
+        "startDate": None,
+        "endDate": None,
         "estimatedShipDate": "2026-07-19",
         "stores": [
             {
                 "name": "FUNBOX",
-                "url": "https://www.funbox.com.tw/?s=UX-20",
-                "method": "線上預購",
-                "note": None,
+                "url": "https://shop.funbox.com.tw/categories/takaratomy/beyblade/XIKBXB",
+                "method": "戰鬥陀螺X 強化組",
+                "note": "上架後將更新直連預購頁",
             },
         ],
-        "notes": "台灣官方代理 FUNBOX，預購通路待確認",
+        "notes": "台灣官方代理 FUNBOX，商品頁上架後連結將更新",
     },
     "CX-18": {
         "available": True,
@@ -186,12 +186,12 @@ PREORDER_DATA = {
         "stores": [
             {
                 "name": "FUNBOX",
-                "url": "https://www.funbox.com.tw/?s=CX-18",
-                "method": "線上預購",
-                "note": None,
+                "url": "https://shop.funbox.com.tw/categories/takaratomy/beyblade/XIKBXB",
+                "method": "戰鬥陀螺X 強化組",
+                "note": "上架後將更新直連預購頁",
             },
         ],
-        "notes": "台灣官方代理 FUNBOX，預購通路待確認",
+        "notes": "台灣官方代理 FUNBOX，商品頁上架後連結將更新",
     },
     # 範例：未來新商品預購資訊格式
     # "BX-52": {

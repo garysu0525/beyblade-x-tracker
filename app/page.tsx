@@ -119,7 +119,7 @@ export default function HomePage() {
                                 rel="noopener noreferrer"
                                 className="bg-indigo-600 text-white px-2 py-0.5 rounded font-medium hover:bg-indigo-700 transition-colors"
                               >
-                                前往預購 →
+                                {store.url?.includes("/products/") ? "立即預購 →" : "前往賣場 →"}
                               </a>
                             )}
                             {store.note && (
