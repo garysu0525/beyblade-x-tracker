@@ -55,9 +55,9 @@ def close_browser():
 
 
 def _parse_price(text: str) -> Optional[int]:
-    """從文字中取出最小的 NT$ 價格"""
-    prices = [int(m.replace(",", "")) for m in re.findall(r"[\$＄]?\s*(\d{2,6}(?:,\d{3})*)", text)
-              if 200 <= int(m.replace(",", "")) <= 9999]
+    """從文字中取出最小的 NT$ 價格（支援千位逗號如 1,490）"""
+    nums = re.findall(r"\d{1,3}(?:,\d{3})+|\d{2,6}", text)
+    prices = [v for m in nums if 200 <= (v := int(m.replace(",", ""))) <= 9999]
     return min(prices) if prices else None
 
 

@@ -14,7 +14,7 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": 490,
+    "marketPriceTWD": 1490,
     "availability": {
       "momo": "available",
       "pchome": null,
@@ -32,7 +32,7 @@
       "priceHistory": [],
       "lastUpdated": "2026-06-29"
     },
-    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
+    "lastUpdated": "2026-06-29T03:50:58.224561+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-01%20%E8%92%BC%E9%BE%8D&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-01%20%E8%92%BC%E9%BE%8D",
@@ -56,9 +56,9 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 1072,
     "availability": {
-      "momo": "soldout",
+      "momo": "available",
       "pchome": null,
       "funbox": "soldout",
       "eslite": null,
@@ -74,7 +74,7 @@
       "priceHistory": [],
       "lastUpdated": "2026-06-29"
     },
-    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
+    "lastUpdated": "2026-06-29T03:50:58.224561+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-02%20%E5%9C%B0%E7%8D%84&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-02%20%E5%9C%B0%E7%8D%84",
@@ -108,7 +108,7 @@
     },
     "preorder": null,
     "grayMarket": null,
-    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
+    "lastUpdated": "2026-06-29T03:50:58.224561+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-03%20%E9%AD%94%E6%B3%95&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-03%20%E9%AD%94%E6%B3%95",
@@ -132,9 +132,9 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": null,
+    "marketPriceTWD": 1090,
     "availability": {
-      "momo": "soldout",
+      "momo": "available",
       "pchome": null,
       "funbox": "soldout",
       "eslite": null,
@@ -142,7 +142,7 @@
     },
     "preorder": null,
     "grayMarket": null,
-    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
+    "lastUpdated": "2026-06-29T03:50:58.224561+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-04%20%E9%A8%8E%E5%A3%AB&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-04%20%E9%A8%8E%E5%A3%AB",
@@ -166,7 +166,7 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": 738,
+    "marketPriceTWD": 990,
     "availability": {
       "momo": "available",
       "pchome": null,
@@ -176,7 +176,7 @@
     },
     "preorder": null,
     "grayMarket": null,
-    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
+    "lastUpdated": "2026-06-29T03:50:58.224561+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-05%20%E9%AD%94%E5%B0%8E&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-05%20%E9%AD%94%E5%B0%8E",
@@ -218,7 +218,7 @@
       "priceHistory": [],
       "lastUpdated": "2026-06-29"
     },
-    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
+    "lastUpdated": "2026-06-29T03:50:58.224561+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-06%20%E9%A8%8E%E5%A3%AB&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-06%20%E9%A8%8E%E5%A3%AB",
