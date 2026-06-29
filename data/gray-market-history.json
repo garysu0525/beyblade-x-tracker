@@ -1,0 +1,513 @@
+{
+  "prices": {
+    "BX-01": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 525
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "BX-02": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 333
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "BX-06": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 300
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 300
+      }
+    ],
+    "BX-14": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 309
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "BX-16": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 309
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "BX-20": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 550
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 460
+      }
+    ],
+    "BX-23": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 350
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 350
+      }
+    ],
+    "BX-24": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 333
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "BX-35": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 333
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "BX-36": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 309
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "BX-44": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 309
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "BX-45": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 408
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 408
+      }
+    ],
+    "BX-49": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 309
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 446
+      }
+    ],
+    "UX-01": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 309
+      },
+      {
+        "date": "2026-06-29",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "UX-02": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 522
+      }
+    ],
+    "UX-03": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 482
+      }
+    ],
+    "UX-06": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 309
+      }
+    ],
+    "UX-07": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "UX-08": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "UX-10": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "UX-11": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": 333
+      }
+    ],
+    "UX-13": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "UX-14": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "UX-15": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "UX-16": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "UX-17": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "UX-19": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "CX-02": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "CX-03": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "CX-07": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "CX-09": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "CX-10": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "CX-11": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "CX-12": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "CX-13": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "CX-14": [
+      {
+        "date": "2026-06-26",
+        "shopeeMin": null,
+        "rutenMin": null
+      },
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ],
+    "CX-15": [
+      {
+        "date": "2026-06-27",
+        "shopeeMin": null,
+        "rutenMin": null
+      }
+    ]
+  }
+}

@@ -212,11 +212,46 @@ IMG = "https://beyblade.takaratomy.co.jp/beyblade-x/lineup/_image/{}_list.png"
 TODAY = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 NOW_ISO = datetime.now(timezone.utc).isoformat()
 
+GM_HISTORY_FILE = Path(__file__).parent.parent / "data" / "gray-market-history.json"
+
+def load_gm_history() -> dict:
+    if GM_HISTORY_FILE.exists():
+        try:
+            return json.loads(GM_HISTORY_FILE.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {"prices": {}}
+
+def build_gray_market(code: str, zh_name: str, gm_history: dict) -> dict | None:
+    """Gray market 搜尋 URL + 最新價格（含近 30 天歷史）"""
+    if code in ACCESSORY:
+        return None
+    tier = TIER_MAP.get(code)
+    if not tier:
+        return None  # 只有有 tier 的商品才顯示水貨區
+
+    from urllib.parse import quote
+    kw_tw = f"戰鬥陀螺X {code}"
+    kw_jp = f"ベイブレードX {code}"
+    history = gm_history.get("prices", {}).get(code, [])
+    latest = history[-1] if history else {}
+    return {
+        "shopeeUrl": f"https://shopee.tw/search?keyword={quote(kw_tw)}",
+        "rutenUrl": f"https://www.ruten.com.tw/find/?q={quote(kw_tw)}",
+        "yahooJpUrl": f"https://auctions.yahoo.co.jp/search/search?p={quote(kw_jp)}",
+        "shopeePrice": latest.get("shopeeMin"),
+        "rutenPrice": latest.get("rutenMin"),
+        "priceHistory": history[-30:],  # 最近 30 筆
+        "lastUpdated": latest.get("date"),
+    }
+
 ALL_CODES = (
     [f"BX-{i:02d}" for i in range(1, 52)] +
     [f"UX-{i:02d}" for i in range(1, 21)] +
     [f"CX-{i:02d}" for i in range(1, 19)]
 )
+
+gm_history = load_gm_history()
 
 products = []
 for code in ALL_CODES:
@@ -224,10 +259,11 @@ for code in ALL_CODES:
     rd = RELEASE_DATES.get(code, "")
     released = (rd <= TODAY) if rd else True
     tier, score = TIER_MAP.get(code, (None, None))
+    zh_name = ZH_NAMES.get(code, code)
     products.append({
         "id": code,
         "code": code,
-        "nameZh": ZH_NAMES.get(code, code),
+        "nameZh": zh_name,
         "nameJa": "",
         "imageUrl": IMG.format(key),
         "type": TYPE_MAP.get(code) if code not in ACCESSORY else None,
@@ -245,6 +281,7 @@ for code in ALL_CODES:
             "eslite": None, "yahoo": None,
         },
         "preorder": PREORDER_DATA.get(code),
+        "grayMarket": build_gray_market(code, zh_name, gm_history),
         "lastUpdated": NOW_ISO,
     })
 
