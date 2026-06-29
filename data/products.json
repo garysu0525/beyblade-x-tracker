@@ -14,13 +14,13 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": 590,
+    "marketPriceTWD": 490,
     "availability": {
       "momo": "available",
       "pchome": null,
-      "funbox": "available",
+      "funbox": "soldout",
       "eslite": null,
-      "yahoo": "soldout"
+      "yahoo": null
     },
     "preorder": null,
     "grayMarket": {
@@ -32,7 +32,7 @@
       "priceHistory": [],
       "lastUpdated": "2026-06-29"
     },
-    "lastUpdated": "2026-06-27T04:24:17.554558+00:00",
+    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-01%20%E8%92%BC%E9%BE%8D&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-01%20%E8%92%BC%E9%BE%8D",
@@ -60,7 +60,7 @@
     "availability": {
       "momo": "soldout",
       "pchome": null,
-      "funbox": "available",
+      "funbox": "soldout",
       "eslite": null,
       "yahoo": null
     },
@@ -74,7 +74,7 @@
       "priceHistory": [],
       "lastUpdated": "2026-06-29"
     },
-    "lastUpdated": "2026-06-27T04:24:17.554558+00:00",
+    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-02%20%E5%9C%B0%E7%8D%84&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-02%20%E5%9C%B0%E7%8D%84",
@@ -100,15 +100,15 @@
     "priceTWD": 499,
     "marketPriceTWD": 899,
     "availability": {
-      "momo": "available",
+      "momo": "soldout",
       "pchome": null,
-      "funbox": "available",
+      "funbox": "soldout",
       "eslite": null,
       "yahoo": null
     },
     "preorder": null,
     "grayMarket": null,
-    "lastUpdated": "2026-06-27T04:24:17.554558+00:00",
+    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-03%20%E9%AD%94%E6%B3%95&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-03%20%E9%AD%94%E6%B3%95",
@@ -136,13 +136,13 @@
     "availability": {
       "momo": "soldout",
       "pchome": null,
-      "funbox": "available",
+      "funbox": "soldout",
       "eslite": null,
-      "yahoo": "soldout"
+      "yahoo": null
     },
     "preorder": null,
     "grayMarket": null,
-    "lastUpdated": "2026-06-27T04:24:17.554558+00:00",
+    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-04%20%E9%A8%8E%E5%A3%AB&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-04%20%E9%A8%8E%E5%A3%AB",
@@ -166,17 +166,17 @@
     "releasedTW": true,
     "priceJPY": null,
     "priceTWD": 499,
-    "marketPriceTWD": 990,
+    "marketPriceTWD": 738,
     "availability": {
       "momo": "available",
       "pchome": null,
-      "funbox": "available",
+      "funbox": "soldout",
       "eslite": null,
-      "yahoo": "soldout"
+      "yahoo": null
     },
     "preorder": null,
     "grayMarket": null,
-    "lastUpdated": "2026-06-27T04:24:17.554558+00:00",
+    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-05%20%E9%AD%94%E5%B0%8E&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-05%20%E9%AD%94%E5%B0%8E",
@@ -204,9 +204,9 @@
     "availability": {
       "momo": "available",
       "pchome": null,
-      "funbox": "available",
+      "funbox": "soldout",
       "eslite": null,
-      "yahoo": "soldout"
+      "yahoo": null
     },
     "preorder": null,
     "grayMarket": {
@@ -218,7 +218,7 @@
       "priceHistory": [],
       "lastUpdated": "2026-06-29"
     },
-    "lastUpdated": "2026-06-27T04:24:17.554558+00:00",
+    "lastUpdated": "2026-06-29T03:47:15.810058+00:00",
     "storeUrls": {
       "momo": "https://www.momoshop.com.tw/search/searchShop.jsp?keyword=BX-06%20%E9%A8%8E%E5%A3%AB&searchType=1",
       "pchome": "https://shopping.pchome.com.tw/?q=BX-06%20%E9%A8%8E%E5%A3%AB",

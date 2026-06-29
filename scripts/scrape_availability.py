@@ -235,8 +235,8 @@ CHECKERS = {
     "momo":   check_momo,
     "pchome": check_pchome,
     "funbox": check_funbox,
-    "yahoo":  check_yahoo,
-    "eslite": check_eslite,
+    # yahoo: 持續 timeout，暫時停用
+    # eslite: Cloudflare 封鎖，暫時停用
 }
 
 
